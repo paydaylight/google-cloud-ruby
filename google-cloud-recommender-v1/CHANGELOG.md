@@ -1,5 +1,11 @@
 # Release History
 
+### 0.6.0 / 2020-12-24
+
+#### Features
+
+* Support billing account parameters for path helpers
+
 ### 0.5.3 / 2020-10-29
 
 #### Bug Fixes
